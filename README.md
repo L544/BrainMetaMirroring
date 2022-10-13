@@ -1,2 +1,1 @@
-# bmm
-Brain Meta-Mirroring
+# Brain Meta-Mirroring (BMM)
